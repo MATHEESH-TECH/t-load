@@ -6,7 +6,7 @@ def menu():
       while True:
            print("")
            os.system("clear")
-           print('\033[1;36;40m<─────────────── v.1.2 ───────────────>')
+           print('\033[1;36;40m<─────────────── M-T ───────────────>')
            print('')
            os.system('date | lolcat')
            print("\033[1;93m")
@@ -26,7 +26,7 @@ def menu():
                    os.system('clear')
                    print('')
                    os.system('figlet ' + x + ' | lolcat')
-                   print('\033[1;92m ────────────────────────────────────── ')
+                   print('\033[1;92m ─────────────────────────────────────────── ')
                    print("")
                    break
                 else:
