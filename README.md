@@ -3,6 +3,7 @@ connect with MATHEESH TECH
  Login tool will protect your termux  . It set up a username and password for your termux and it feel likes you as safe
 Command and steps
  $ pkg update
+ $ pkg install git
  $ git clone https://github.com/MATHEESH-TECH/login.git
  $ cd login 
  $ chmod 777 *
