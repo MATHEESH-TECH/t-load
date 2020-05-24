@@ -1,4 +1,5 @@
 apt install figlet  
+pkg install nano
 apt install ruby 
 gem install lolcat
 apt install python
