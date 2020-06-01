@@ -1,1 +1,2 @@
-toilet -f big '  MATHEESH' -F
+
+toilet -f big '  zhhshs' -F gay | lolcat
