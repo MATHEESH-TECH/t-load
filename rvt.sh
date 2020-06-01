@@ -34,7 +34,7 @@ echo " "
 echo ""
 echo "                           rverting wait for 10s please"
 cd $HOME
-cd T-LOAD
+cd t-load
 cd revert 
 mv bash.bashrc $HOME 
 cd  /data/data/com.termux/files/usr/etc
@@ -45,5 +45,5 @@ mv bash.bashrc /data/data/com.termux/files/usr/etc
 echo "             "EXIT FROM TERMUX AND RE OPEN IT AFTER 5 SECONDS |lolcat 
 echo " "
 echo  "            reverted successfully now you can use.....termux normally"
-sleep 3.0
+sleep 2.0
 cd $HOME
