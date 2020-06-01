@@ -1,5 +1,5 @@
 #!data/data/com.termux/files/etc
-#Tool By MATHEESH TECH
+#Tool By matheesh tech
 #ThAnKS For Supporting 
 ################
 cyn='\e[0;36m'
@@ -14,12 +14,12 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo -e "\e[1m\e[33m\nM-T Gang Write Your \e[31mFirst \e[33mName\e[32m 👇\n\n"
+echo -e "\e[1m\e[33m\nM-T GANG Write Your \e[31mFirst \e[33mName\e[32m 👇\n\n"
 read varbanner
 echo
-echo -e "\e[1m\e[33m\nM-T Gang Write Your \e[36mSecond \e[33mName\e[32m 👇\n\n "
+echo -e "\e[1m\e[33m\nM-T GANG Write your \e[36mSecond \e[33mName\e[32m 👇\n\n "
 read varcowsay
-echo  " "$varcowsay" | lolcat" > cowtext.txt
+echo  "cowsay -f eyes "$varcowsay" | lolcat" > cowtext.txt
 echo "toilet -f big '  $varbanner' -F gay | lolcat" > banner.txt
 echo 
 echo "clear" > null.txt
