@@ -1,5 +1,5 @@
 #!Script  author mathéesh
-#By noob matheesh tech
+#By matheesh tech
 #Be a creative person not copy paster
 
 ###################################
@@ -66,11 +66,11 @@ cp scifi.mp3 /sdcard
 clear
 bash packages.sh
 clear
-sleep 4.0
+sleep 2.0
 bash ins.sh 
-sleep 5.0
+sleep 2.0
 clear
-sleep 5.0
+sleep 2.0
 bash thanks.sh 
 sleep 2.0 
 clear
@@ -82,5 +82,5 @@ echo " "
 echo "             "EXIT FROM TERMUX AND RE OPEN IT AFTER 5 SECONDS |lolcat 
 echo " "
 echo " "
-sleep 3.0
+sleep 2.0
 cd $HOME
