@@ -27,7 +27,7 @@ echo -e "\e[1m\e[31m\
               ██║      ███████╗╚██████╔╝██║  ██║██████╔╝
               ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1"
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31m MATHEESH \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
 echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/MATHEESH-TECH \e[1m\e[32m]<----------"  
 echo " "
