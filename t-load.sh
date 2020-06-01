@@ -45,7 +45,7 @@ cd $HOME
 
 ls 
 
-cd T-LOAD
+cd t-load
 
 ls
 
@@ -57,7 +57,7 @@ cd $HOME
 
 ls
 
-cd T-LOAD
+cd t-load
 
 ls
 
